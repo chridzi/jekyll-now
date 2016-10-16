@@ -4,6 +4,5 @@ title: 404 ?
 ---
 
 Browser can't find *hypermetaphysical.net*.
-
-#Doesn't know 
+#Doesn't know
 where to being or begin ?
