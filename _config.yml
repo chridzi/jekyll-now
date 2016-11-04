@@ -84,8 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-collections:
-  content-sections:
-    output: true
-    title: Content Sections
