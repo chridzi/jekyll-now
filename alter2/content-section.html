@@ -1,0 +1,2 @@
+{% assign content_search = site.collections.content-sections.docs | where: {{ include.field }}, {{ include.value }} %}
+{{ content_search | first }}
