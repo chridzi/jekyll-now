@@ -1,5 +1,5 @@
 ---
 layout: default
+{% include {{test1.md}} %}
 ---
 ????
-{% include {{test1.md}} %}
