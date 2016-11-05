@@ -23,16 +23,18 @@
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-            {{ site.time | date_to_string }}
+            <p class="site-description">{{ site.time | date_to_string }}</p>
+
           </div>
           <nav>
-            <a href="{{ site.baseurl }}posts">Blog</a>
+            <a href="{{ site.baseurl }}/posts">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
             <a href="{{ site.baseurl }}/alter1">Alter1..</a>
             <a href="{{ site.baseurl }}/alter2">Alter2..</a>
           </nav>
         </header>
+        <p class="site-description">{{ site.description}}</p>
+
       </div>
     </div>
 
