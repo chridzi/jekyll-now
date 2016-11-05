@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-{{ site.time | date_to_string }}<br />
+
 {{ site.time | date_to_long_string }}<br />
-{{ #test# | markdownify }}<br />
+
 <p>Browser can&#39;t find <em>hypermetaphysical.net</em>. </p>
 
 <p>Doesn&#39;t know where to being </p>
@@ -12,18 +12,3 @@ layout: default
 
 <p><a href="http://www.neuronic.com" title="neuronic.com (the orginal site)">neuronic.com</a></p>
 <p><a href="http://www.sleepspecialist.co.uk" title="work site">sleepspecialist.co.uk</a></p>
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
