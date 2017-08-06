@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="779" height="337" viewBox="0, 0, 779, 337">
+  <g id="Layer_1">
+    <path d="M0,337 L779,337 L779,0 L0,0 z" fill="#E7EBEE"/>
+    <path d="M195,62 C215,62 183,122 203,122 L440,122" fill-opacity="0" stroke="#1287DE" stroke-width="6" stroke-linecap="round"/>
+    <path d="M440,122 C460,122 436,170 456,170 L708,170" fill-opacity="0" stroke="#1287DE" stroke-width="5" stroke-linecap="round"/>
+    <path d="M194,165 C214,165 187,257 207,257 L446,257" fill-opacity="0" stroke="#1287DE" stroke-width="6" stroke-linecap="round"/>
+    <path d="M446,257 C466,257 445,302 465,302 L744,302" fill-opacity="0" stroke="#1287DE" stroke-width="5" stroke-linecap="round"/>
+    <path d="M356.003,62.744 L356.003,44.244 C356.003,38.721 351.526,34.244 346.003,34.244 L44.003,34.244 C38.48,34.244 34.003,38.721 34.003,44.244 L34.003,81.244 C34.003,86.767 38.48,91.244 44.003,91.244 L346.003,91.244 C351.526,91.244 356.003,86.767 356.003,81.244 z" fill="#FFFFFF"/>
+    <path d="M356.003,62.744 L356.003,44.244 C356.003,38.721 351.526,34.244 346.003,34.244 L44.003,34.244 C38.48,34.244 34.003,38.721 34.003,44.244 L34.003,81.244 C34.003,86.767 38.48,91.244 44.003,91.244 L346.003,91.244 C351.526,91.244 356.003,86.767 356.003,81.244 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <text transform="matrix(1, 0, -0, 1, 194.895, 62.744)">
+      <tspan x="-141.492" y="8.5" font-family="HelveticaNeue-Light" font-size="24" fill="#1A5569">Philosophy of neu</tspan>
+      <tspan x="42.54" y="8.5" font-family="HelveticaNeue-Light" font-size="24" kerning="-0.216" fill="#1A5569">r</tspan>
+      <tspan x="49.452" y="8.5" font-family="HelveticaNeue-Light" font-size="24" fill="#1A5569">oscienc</tspan>
+      <tspan x="129.036" y="8.5" font-family="HelveticaNeue-Light" font-size="24" kerning="0" fill="#1A5569">e</tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 321.272, 110.923)">
+      <tspan x="-112.005" y="6" font-family="HelveticaNeue" font-size="18" fill="#435B66">Philosophy -&gt; neu</tspan>
+      <tspan x="34.497" y="6" font-family="HelveticaNeue" font-size="18" kerning="-0.162" fill="#435B66">r</tspan>
+      <tspan x="40.005" y="6" font-family="HelveticaNeue" font-size="18" fill="#435B66">oscienc</tspan>
+      <tspan x="102.339" y="6" font-family="HelveticaNeue" font-size="18" kerning="0" fill="#435B66">e</tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 579.672, 136.703)">
+      <tspan x="-117.108" y="6" font-family="HelveticaNeue" font-size="18" fill="#435B66">Rep</tspan>
+      <tspan x="-84.438" y="6" font-family="HelveticaNeue" font-size="18" kerning="-0.162" fill="#435B66">r</tspan>
+      <tspan x="-78.93" y="6" font-family="HelveticaNeue" font-size="18" fill="#435B66">esentational concepts in</tspan>
+      <tspan x="117.108" y="6" font-family="HelveticaNeue" font-size="18" kerning="0" fill="#435B66"> </tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 550.827, 158.207)">
+      <tspan x="-88.263" y="6" font-family="HelveticaNeue" font-size="18" fill="#435B66">neu</tspan>
+      <tspan x="-58.581" y="6" font-family="HelveticaNeue" font-size="18" kerning="-0.162" fill="#435B66">r</tspan>
+      <tspan x="-53.073" y="6" font-family="HelveticaNeue" font-size="18" fill="#435B66">oscience theorie</tspan>
+      <tspan x="79.263" y="6" font-family="HelveticaNeue" font-size="18" kerning="0" fill="#435B66">s</tspan>
+    </text>
+    <path d="M300.615,165.276 L300.615,146.776 C300.615,141.254 296.137,136.776 290.615,136.776 L97.615,136.776 C92.092,136.776 87.615,141.254 87.615,146.776 L87.615,183.776 C87.615,189.299 92.092,193.776 97.615,193.776 L290.615,193.776 C296.137,193.776 300.615,189.299 300.615,183.776 z" fill="#FFFFFF"/>
+    <path d="M300.615,165.276 L300.615,146.776 C300.615,141.254 296.138,136.776 290.615,136.776 L97.615,136.776 C92.092,136.776 87.615,141.254 87.615,146.776 L87.615,183.776 C87.615,189.299 92.092,193.776 97.615,193.776 L290.615,193.776 C296.138,193.776 300.615,189.299 300.615,183.776 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <text transform="matrix(1, 0, -0, 1, 194.007, 165.276)">
+      <tspan x="-87.024" y="8.5" font-family="HelveticaNeue-Light" font-size="24" fill="#1A5569">Neu</tspan>
+      <tspan x="-44.784" y="8.5" font-family="HelveticaNeue-Light" font-size="24" kerning="-0.216" fill="#1A5569">r</tspan>
+      <tspan x="-37.872" y="8.5" font-family="HelveticaNeue-Light" font-size="24" fill="#1A5569">ophilosoph</tspan>
+      <tspan x="75.912" y="8.5" font-family="HelveticaNeue-Light" font-size="24" kerning="0" fill="#1A5569">y</tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 326.44, 245.607)">
+      <tspan x="-113.004" y="6" font-family="HelveticaNeue" font-size="18" fill="#435B66">Neu</tspan>
+      <tspan x="-80.334" y="6" font-family="HelveticaNeue" font-size="18" kerning="-0.162" fill="#435B66">r</tspan>
+      <tspan x="-74.826" y="6" font-family="HelveticaNeue" font-size="18" fill="#435B66">oscience -&gt; philosoph</tspan>
+      <tspan x="104.004" y="6" font-family="HelveticaNeue" font-size="18" kerning="0" fill="#435B66">y</tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 602.026, 268.429)">
+      <tspan x="-130.707" y="6" font-family="HelveticaNeue" font-size="18" fill="#435B66">e.g. neu</tspan>
+      <tspan x="-66.015" y="6" font-family="HelveticaNeue" font-size="18" kerning="-0.162" fill="#435B66">r</tspan>
+      <tspan x="-60.507" y="6" font-family="HelveticaNeue" font-size="18" fill="#435B66">ological synd</tspan>
+      <tspan x="45.495" y="6" font-family="HelveticaNeue" font-size="18" kerning="-0.162" fill="#435B66">r</tspan>
+      <tspan x="51.003" y="6" font-family="HelveticaNeue" font-size="18" fill="#435B66">omes and</tspan>
+      <tspan x="130.707" y="6" font-family="HelveticaNeue" font-size="18" kerning="0" fill="#435B66"> </tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 514.654, 289.933)">
+      <tspan x="-43.335" y="6" font-family="HelveticaNeue" font-size="18" fill="#435B66">uniﬁed sel</tspan>
+      <tspan x="38.007" y="6" font-family="HelveticaNeue" font-size="18" kerning="0" fill="#435B66">f</tspan>
+    </text>
+  </g>
+</svg>
